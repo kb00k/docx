@@ -1,0 +1,17 @@
+{
+    "name": "tymolls/docx",
+    "description": "Private Docx package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tymolls\\Docx\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tayo Ademolu",
+            "email": "12128516+tymolls@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
