@@ -1,5 +1,5 @@
 {
-    "name": "tymolls/docx",
+    "name": "kb00k/docx",
     "description": "Private Docx package",
     "type": "library",
     "autoload": {
@@ -9,9 +9,12 @@
     },
     "authors": [
         {
-            "name": "Tayo Ademolu",
-            "email": "12128516+tymolls@users.noreply.github.com"
+            "name": "kb00k",
+            "email": "kb00k@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.3"
+    },
+     "minimum-stability": "dev"
 }
